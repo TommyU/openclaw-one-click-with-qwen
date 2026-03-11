@@ -11,7 +11,7 @@ python3 deploy.py
 - 自动检测 Docker 或 Podman 容器运行时
 - 一键创建所需目录和配置文件
 - 支持自定义容器名称、端口、API Key 等配置
-- 自动启动服务并打开浏览器
+- 自动启动服务并打开浏览器浏览openclaw control ui 
 
 ## 前置要求
 
