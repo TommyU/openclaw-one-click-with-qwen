@@ -1,6 +1,10 @@
 # OpenClaw 一键部署脚本
 
 使用 Docker/Podman 快速部署 OpenClaw 网关服务。
+复制/下载项目到本地，运行deploy.py
+```python
+python3 deploy.py
+```
 
 ## 功能特性
 
