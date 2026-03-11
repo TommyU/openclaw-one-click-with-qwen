@@ -85,7 +85,7 @@ docker exec -it my-claw openclaw devices approve
 ## TODO
 - 购买千问code plan套餐(过程中会引导): [地址](https://bailian.console.aliyun.com/cn-beijing/?tab=coding-plan#/efm/detail)
 - 需要下载WhatsApp(需要自己科学上网)， 后续配置：
- - 注册（支持国内手机）
- - 在openclaw control ui上打开： 控制/频道， 找到WhatsApp频道，点击【show QR】，会显示一个二维码
- - 关联设备：App右上角 "..." / 已关联的设备 / 扫描上面的二维码，关联设备
- - 可能要等待1～2分钟，然后跟自己聊，就可以指挥容器里面的openclaw了
+  - 注册（支持国内手机）
+  - 在openclaw control ui上打开： 控制/频道， 找到WhatsApp频道，点击【show QR】，会显示一个二维码
+  - 关联设备：App右上角 "..." / 已关联的设备 / 扫描上面的二维码，关联设备
+  - 可能要等待1～2分钟，然后跟自己聊，就可以指挥容器里面的openclaw了
